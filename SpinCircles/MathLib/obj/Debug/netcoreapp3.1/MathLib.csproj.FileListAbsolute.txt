@@ -1,0 +1,4 @@
+C:\Users\s201031\Desktop\SpinCircles\SpinCircles\SpinCircles\MathLib\bin\Debug\netcoreapp3.1\MathLib.exe
+C:\Users\s201031\Desktop\SpinCircles\SpinCircles\SpinCircles\MathLib\obj\Debug\netcoreapp3.1\MathLib.csprojAssemblyReference.cache
+C:\Users\s201031\Desktop\SpinCircles\SpinCircles\SpinCircles\MathLib\obj\Debug\netcoreapp3.1\MathLib.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\SpinCircles\SpinCircles\SpinCircles\MathLib\obj\Debug\netcoreapp3.1\MathLib.AssemblyInfo.cs
